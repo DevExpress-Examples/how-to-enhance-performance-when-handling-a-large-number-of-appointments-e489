@@ -1,3 +1,32 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomEvents.cs](./CS/WebSite/App_Code/CustomEvents.cs) (VB: [CustomEvents.vb](./VB/WebSite/App_Code/CustomEvents.vb))
+* [CustomResources.cs](./CS/WebSite/App_Code/CustomResources.cs) (VB: [CustomResources.vb](./VB/WebSite/App_Code/CustomResources.vb))
+* [DataHelper.cs](./CS/WebSite/App_Code/DataHelper.cs) (VB: [DataHelper.vb](./VB/WebSite/App_Code/DataHelper.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [DefaultDataSources.ascx](./CS/WebSite/DefaultDataSources.ascx) (VB: [DefaultDataSources.ascx.vb](./VB/WebSite/DefaultDataSources.ascx.vb))
+* [DefaultDataSources.ascx.cs](./CS/WebSite/DefaultDataSources.ascx.cs) (VB: [DefaultDataSources.ascx.vb](./VB/WebSite/DefaultDataSources.ascx.vb))
+* [AppointmentForm.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/AppointmentForm.ascx) (VB: [AppointmentForm.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/AppointmentForm.ascx.vb))
+* [AppointmentForm.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/AppointmentForm.ascx.cs) (VB: [AppointmentForm.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/AppointmentForm.ascx.vb))
+* [GotoDateForm.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/GotoDateForm.ascx) (VB: [GotoDateForm.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/GotoDateForm.ascx))
+* [GotoDateForm.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/GotoDateForm.ascx.cs) (VB: [GotoDateForm.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/GotoDateForm.ascx))
+* [HorizontalAppointmentTemplate.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/HorizontalAppointmentTemplate.ascx) (VB: [HorizontalAppointmentTemplate.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/HorizontalAppointmentTemplate.ascx))
+* [HorizontalAppointmentTemplate.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/HorizontalAppointmentTemplate.ascx.cs) (VB: [HorizontalAppointmentTemplate.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/HorizontalAppointmentTemplate.ascx))
+* [HorizontalSameDayAppointmentTemplate.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/HorizontalSameDayAppointmentTemplate.ascx) (VB: [HorizontalSameDayAppointmentTemplate.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/HorizontalSameDayAppointmentTemplate.ascx))
+* [HorizontalSameDayAppointmentTemplate.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/HorizontalSameDayAppointmentTemplate.ascx.cs) (VB: [HorizontalSameDayAppointmentTemplate.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/HorizontalSameDayAppointmentTemplate.ascx))
+* [InplaceEditor.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/InplaceEditor.ascx) (VB: [InplaceEditor.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/InplaceEditor.ascx.vb))
+* [InplaceEditor.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/InplaceEditor.ascx.cs) (VB: [InplaceEditor.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/InplaceEditor.ascx.vb))
+* [RecurrentAppointmentDeleteForm.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentDeleteForm.ascx) (VB: [RecurrentAppointmentDeleteForm.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentDeleteForm.ascx))
+* [RecurrentAppointmentDeleteForm.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentDeleteForm.ascx.cs) (VB: [RecurrentAppointmentDeleteForm.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentDeleteForm.ascx))
+* [RecurrentAppointmentEditForm.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentEditForm.ascx) (VB: [RecurrentAppointmentEditForm.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentEditForm.ascx))
+* [RecurrentAppointmentEditForm.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentEditForm.ascx.cs) (VB: [RecurrentAppointmentEditForm.ascx](./VB/WebSite/DevExpress/ASPxSchedulerForms/RecurrentAppointmentEditForm.ascx))
+* [ReminderForm.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/ReminderForm.ascx) (VB: [ReminderForm.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/ReminderForm.ascx.vb))
+* [ReminderForm.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/ReminderForm.ascx.cs) (VB: [ReminderForm.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/ReminderForm.ascx.vb))
+* [VerticalAppointmentTemplate.ascx](./CS/WebSite/DevExpress/ASPxSchedulerForms/VerticalAppointmentTemplate.ascx) (VB: [VerticalAppointmentTemplate.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/VerticalAppointmentTemplate.ascx.vb))
+* [VerticalAppointmentTemplate.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/VerticalAppointmentTemplate.ascx.cs) (VB: [VerticalAppointmentTemplate.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/VerticalAppointmentTemplate.ascx.vb))
+<!-- default file list end -->
 # How to enhance performance when handling a large number of appointments
 
 
